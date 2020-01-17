@@ -29,20 +29,46 @@
         private void InitializeComponent()
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage_Vedomost = new System.Windows.Forms.TabPage();
+            this.tabPage_StatisticStud = new System.Windows.Forms.TabPage();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabControl1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
             // 
+            this.tabControl1.Controls.Add(this.tabPage_Vedomost);
+            this.tabControl1.Controls.Add(this.tabPage_StatisticStud);
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Location = new System.Drawing.Point(12, 12);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(660, 337);
             this.tabControl1.TabIndex = 0;
+            // 
+            // tabPage_Vedomost
+            // 
+            this.tabPage_Vedomost.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_Vedomost.Name = "tabPage_Vedomost";
+            this.tabPage_Vedomost.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage_Vedomost.Size = new System.Drawing.Size(652, 311);
+            this.tabPage_Vedomost.TabIndex = 0;
+            this.tabPage_Vedomost.Text = "Ведомость";
+            this.tabPage_Vedomost.UseVisualStyleBackColor = true;
+            // 
+            // tabPage_StatisticStud
+            // 
+            this.tabPage_StatisticStud.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_StatisticStud.Name = "tabPage_StatisticStud";
+            this.tabPage_StatisticStud.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage_StatisticStud.Size = new System.Drawing.Size(652, 311);
+            this.tabPage_StatisticStud.TabIndex = 1;
+            this.tabPage_StatisticStud.Text = "Статистика по студентам";
+            this.tabPage_StatisticStud.UseVisualStyleBackColor = true;
             // 
             // tabPage1
             // 
@@ -50,7 +76,7 @@
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(652, 311);
-            this.tabPage1.TabIndex = 0;
+            this.tabPage1.TabIndex = 2;
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
@@ -59,10 +85,20 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(192, 74);
-            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Size = new System.Drawing.Size(652, 311);
+            this.tabPage2.TabIndex = 3;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(652, 311);
+            this.tabPage3.TabIndex = 4;
+            this.tabPage3.Text = "tabPage3";
+            this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -80,8 +116,11 @@
         #endregion
 
         private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage_Vedomost;
+        private System.Windows.Forms.TabPage tabPage_StatisticStud;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TabPage tabPage3;
     }
 }
 
