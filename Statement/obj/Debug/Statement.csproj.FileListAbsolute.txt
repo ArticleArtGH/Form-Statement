@@ -1,0 +1,10 @@
+C:\Users\stud\374\Черных Артём\Statement\bin\Debug\Statement.exe.config
+C:\Users\stud\374\Черных Артём\Statement\bin\Debug\Statement.exe
+C:\Users\stud\374\Черных Артём\Statement\bin\Debug\Statement.pdb
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.csprojAssemblyReference.cache
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.Form1.resources
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.Properties.Resources.resources
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.csproj.GenerateResource.cache
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.csproj.CoreCompileInputs.cache
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.exe
+C:\Users\stud\374\Черных Артём\Statement\obj\Debug\Statement.pdb
