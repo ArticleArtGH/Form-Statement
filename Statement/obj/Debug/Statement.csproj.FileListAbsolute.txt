@@ -18,3 +18,13 @@ E:\Проекты\374\Form-Statement-master\Statement\obj\Debug\Statement.csproj
 E:\Проекты\374\Form-Statement-master\Statement\obj\Debug\Statement.csproj.CoreCompileInputs.cache
 E:\Проекты\374\Form-Statement-master\Statement\obj\Debug\Statement.exe
 E:\Проекты\374\Form-Statement-master\Statement\obj\Debug\Statement.pdb
+E:\Проекты\374\Statement\bin\Debug\Statement.exe.config
+E:\Проекты\374\Statement\bin\Debug\Statement.exe
+E:\Проекты\374\Statement\bin\Debug\Statement.pdb
+E:\Проекты\374\Statement\obj\Debug\Statement.csprojAssemblyReference.cache
+E:\Проекты\374\Statement\obj\Debug\Statement.Form1.resources
+E:\Проекты\374\Statement\obj\Debug\Statement.Properties.Resources.resources
+E:\Проекты\374\Statement\obj\Debug\Statement.csproj.GenerateResource.cache
+E:\Проекты\374\Statement\obj\Debug\Statement.csproj.CoreCompileInputs.cache
+E:\Проекты\374\Statement\obj\Debug\Statement.exe
+E:\Проекты\374\Statement\obj\Debug\Statement.pdb
