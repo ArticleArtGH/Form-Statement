@@ -175,6 +175,7 @@
             this.button_ReadFile.TabIndex = 2;
             this.button_ReadFile.Text = "Читать из файла";
             this.button_ReadFile.UseVisualStyleBackColor = true;
+            this.button_ReadFile.Click += new System.EventHandler(this.button_ReadFile_Click);
             // 
             // button_RandomGeneration
             // 
